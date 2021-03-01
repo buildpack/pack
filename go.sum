@@ -97,6 +97,7 @@ github.com/bketelsen/crypt v0.0.3-0.20200106085610-5cbc8cc4026c/go.mod h1:MKsuJm
 github.com/blang/semver v3.5.0+incompatible/go.mod h1:kRBLl5iJ+tD4TcOOxsy/0fnwebNt5EWlYSAyrTnjyyk=
 github.com/buildpacks/imgutil v0.0.0-20201211223552-8581300fe2b2 h1:tQWsNfyiBTEB6BaEs+sRxsbbo/XkNxCEqSWVwTq7I00=
 github.com/buildpacks/imgutil v0.0.0-20201211223552-8581300fe2b2/go.mod h1:NC93OGDehA2ksqgTzugeQcPqmTpilMPYRO+XaFsDyts=
+github.com/buildpacks/imgutil v0.0.0-20210209163614-30601e371ce3 h1:NuBOSLnHIE+gTjeRC/PAopad83eNT1YLRclBSIRYhKU=
 github.com/buildpacks/lifecycle v0.10.2 h1:fCVGvZdzE6fm89Vll5mSgc6LflYbxKvzGRkca8Hanpo=
 github.com/buildpacks/lifecycle v0.10.2/go.mod h1:8qFbbL4AvcB8hrb1wFuaf5H86JF9Njkag5BIQP5qlmM=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
